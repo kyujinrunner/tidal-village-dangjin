@@ -2,7 +2,13 @@
 
 태블릿의 웹브라우저에서 사용하는 수업용 앱입니다. 앱은 index.html 한 파일로 실행되며 그림도 포함되어 있습니다.
 
-## GitHub Pages에 게시하기
+## 바로 실행하기
+
+[갯벌 마을 회의 — 당진판 실행](https://kyujinrunner.github.io/tidal-village-dangjin/)
+
+학생은 GitHub 로그인이나 파일 다운로드 없이 위 주소를 태블릿에서 열면 됩니다.
+
+## GitHub Pages 설정
 
 1. GitHub에 이 앱 전용 저장소를 만듭니다. 저장소 이름 예: tidal-village-dangjin.
 2. 이 폴더의 index.html, .nojekyll, README.md만 올립니다. 학교 업무 폴더 전체를 올리지 않습니다.
@@ -26,4 +32,4 @@ GitHub Free의 Pages는 공개 저장소에서 사용할 수 있습니다. 공�
 
 ## 준비 확인
 
-2026. 10. 22. 원본을 변경하지 않고 게시용 index.html을 복사했습니다. 원본과 index.html의 SHA-256 해시가 같습니다. 외부 파일 참조나 네트워크 API 호출 없이 단일 파일로 구성되어 있습니다. 아직 GitHub 업로드나 공개 게시를 완료한 상태는 아닙니다.
+게시일: 2026. 10. 22. 원본을 변경하지 않고 게시용 index.html을 복사했습니다. 원본과 index.html의 SHA-256 해시가 같습니다. 외부 파일 참조나 네트워크 API 호출 없이 단일 파일로 구성되어 있습니다. GitHub 업로드와 Pages 게시를 완료했으며 실제 학생용 주소에서 시작 화면이 열리는 것을 확인했습니다.
